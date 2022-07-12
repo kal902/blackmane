@@ -1,0 +1,1 @@
+<div class="view" id="artists_view" style="margin-top:10px"></div><!-- !Artists View Container! -->
